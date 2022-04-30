@@ -6,7 +6,7 @@ c = 50
 
 # Booleans are capitalized
 a_truth = True
-a_lie = False
+# a_lie = False
 
 # Data Storage
 # Arrays (called "lists")
